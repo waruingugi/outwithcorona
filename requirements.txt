@@ -1,0 +1,12 @@
+flake8
+psycopg2-binary==2.8.4
+django-phonenumber-field
+phonenumbers
+africastalking
+retry
+
+django-referrer-policy
+
+django-feature-policy
+
+Django==2.2.7
